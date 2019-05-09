@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed62322a-7b0c-484f-9d57-0d2a838cb58f" name="Default Changelist" comment="">
+    <list default="true" id="f9cb2a54-c32d-4b2b-a0d8-db2fc8b3f79e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118. Pascal's Triangle - Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../118. Pascal's Triangle - Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../9. Palindrome Number - C++/Palindrome Number" beforeDir="false" afterPath="$PROJECT_DIR$/../9. Palindrome Number - C++/Palindrome Number" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="154">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#116#117#0" expanded="true" />
@@ -62,26 +65,26 @@
         <subPane>
           <expand>
             <path>
-              <item name="118. Pascal's Triangle - Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="118. Pascal's Triangle - Java" type="462c0819:PsiDirectoryNode" />
+              <item name="119. Pascal's Triangle II - Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="119. Pascal's Triangle II - Java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="118. Pascal's Triangle - Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="118. Pascal's Triangle - Java" type="462c0819:PsiDirectoryNode" />
+              <item name="119. Pascal's Triangle II - Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="119. Pascal's Triangle II - Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557427822309" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557428127824" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -101,45 +104,41 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="118. Pascal's Triangle - Java" />
+      <module name="119. Pascal's Triangle II - Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="118. Pascal's Triangle - Java" />
+      <module name="119. Pascal's Triangle II - Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ed62322a-7b0c-484f-9d57-0d2a838cb58f" name="Default Changelist" comment="" />
-      <created>1557352722424</created>
+      <changelist id="f9cb2a54-c32d-4b2b-a0d8-db2fc8b3f79e" name="Default Changelist" comment="" />
+      <created>1557427989893</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557352722424</updated>
-      <workItem from="1557352725510" duration="4431000" />
+      <updated>1557427989893</updated>
+      <workItem from="1557427992980" duration="133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4431000" />
+    <option name="totallyTimeSpent" value="133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -148,7 +147,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -156,7 +155,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,8 +177,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <state relative-caret-position="154">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#116#117#0" expanded="true" />
