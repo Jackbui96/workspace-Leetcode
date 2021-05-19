@@ -1,0 +1,4 @@
+p1 = ""
+p2 = "In enterprise applications, you may have tagged test cases which you want to run in specific environments e.g. development or production. You can include or exclude tests based on these tags as well, from a test suite."
+p3 = "Computers attached to the ARPANET included machines running operating systems such as TOPS-10 and TENEX using CR-LF line endings, machines running operating systems such as Multics using LF line endings, and machines running operating systems such as OS/360 that represented lines as a character count followed by the characters of the line and that used EBCDIC rather than ASCII."
+p4 = "A quick and practical guide to JUnit 5. ... Get started with Spring 5 and Spring Boot 2, through the Learn Spring course: ... This module includes new programming and extension models for writing tests in JUnit 5."
