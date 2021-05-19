@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1207b7b-9cfa-4108-92f6-d6234fb7b043" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace-Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace-Leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../110. Balanced Binary Tree - Java/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../110. Balanced Binary Tree - Java/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../110. Balanced Binary Tree - Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../110. Balanced Binary Tree - Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../110. Balanced Binary Tree - Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../110. Balanced Binary Tree - Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../110. Balanced Binary Tree - Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../110. Balanced Binary Tree - Java/110. Balanced Binary Tree - Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../110. Balanced Binary Tree - Java/out/production/110. Balanced Binary Tree - Java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../110. Balanced Binary Tree - Java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118. Pascal's Triangle - Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118. Pascal's Triangle - Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118. Pascal's Triangle - Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118. Pascal's Triangle - Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118. Pascal's Triangle - Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118. Pascal's Triangle - Java/118. Pascal's Triangle - Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118. Pascal's Triangle - Java/out/production/118. Pascal's Triangle - Java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../118. Pascal's Triangle - Java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../119. Pascal's Triangle II - Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../119. Pascal's Triangle II - Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../119. Pascal's Triangle II - Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../119. Pascal's Triangle II - Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../119. Pascal's Triangle II - Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../119. Pascal's Triangle II - Java/119. Pascal's Triangle II - Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../119. Pascal's Triangle II - Java/out/production/119. Pascal's Triangle II - Java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../119. Pascal's Triangle II - Java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20. Valid Parentheses - Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21. Merge Two Sorted Lists - Java/21. Merge Two Sorted Lists.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21. Merge Two Sorted Lists - Java/src/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21. Merge Two Sorted Lists - Java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../283. Move Zero - Java/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../283. Move Zero - Java/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../283. Move Zero - Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../283. Move Zero - Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../283. Move Zero - Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../283. Move Zero - Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../283. Move Zero - Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../283. Move Zero - Java/283. Move Zero - Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../283. Move Zero - Java/out/production/283. Move Zero - Java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../283. Move Zero - Java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7. Reverse Integer - Java/7. Reverse Integer - Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7. Reverse Integer - Java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../890. Find and Replace Pattern - Java/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../890. Find and Replace Pattern - Java/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../890. Find and Replace Pattern - Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../890. Find and Replace Pattern - Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../890. Find and Replace Pattern - Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../890. Find and Replace Pattern - Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../890. Find and Replace Pattern - Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../890. Find and Replace Pattern - Java/890. Find and Replace Pattern - Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../890. Find and Replace Pattern - Java/out/production/890. Find and Replace Pattern - Java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../890. Find and Replace Pattern - Java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Palindrome Number - Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Palindrome Number - Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Palindrome Number - Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Palindrome Number - Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Palindrome Number - Java/9. Palindrome Number - Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Palindrome Number - Java/out/production/9. Palindrome Number - Java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9. Palindrome Number - Java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/classes/kotlin/main/META-INF/101_Symmetric_Tree_Kotlin.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/classes/kotlin/main/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/classes/kotlin/main/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin/101_Symmetric_Tree_Kotlin/src/main/kotlin/main.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1sjPiPDRfhtCN2h1rxf49iuYggA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java&amp;Kotlin/13. Roman to Integer" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="JUnit.MainTester.tester">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="13. Roman to Integer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTester.tester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="13. Roman to Integer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.MainTester" />
+      <option name="METHOD_NAME" value="tester" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="13. Roman to Integer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainTester.tester" />
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1207b7b-9cfa-4108-92f6-d6234fb7b043" name="Default Changelist" comment="" />
+      <created>1621383153937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621383153937</updated>
+    </task>
+    <servers />
+  </component>
+</project>
